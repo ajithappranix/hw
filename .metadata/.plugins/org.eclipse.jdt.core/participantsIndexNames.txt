@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/shailjakant/myworkspace/test/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/503513041.index
+/hw/src/main/resources
+/home/shailjakant/myworkspace/test/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1613145273.index
+/helloWorld/src/main/resources
